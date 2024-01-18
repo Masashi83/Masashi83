@@ -2,8 +2,7 @@
 - 👀 I’m interested in SSBU
 - 🌱 I’m currently learning Frame
 - 📫 How to reach me N
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm not 48.
 
 <!---
 Masashi83/Masashi83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
